@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Solid Fluke Yellow/Amber Gear Outline & Backplate -->
+    <path
+        android:fillColor="#FFB300"
+        android:strokeColor="#FFC107"
+        android:strokeWidth="1.5"
+        android:pathData="M 54 18 A 36 36 0 1 0 54 90 A 36 36 0 1 0 54 18 Z" />
+    <!-- High-Contrast Bold Sharp Cutout Lightning Bolt -->
+    <path
+        android:fillColor="#111315"
+        android:pathData="M 54,30 L 64,51 L 55,51 L 60,78 L 44,54 L 53,54 Z" />
+</vector>

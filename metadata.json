@@ -1,0 +1,6 @@
+{
+  "name": "Cálculos Elétricos",
+  "description": "Compilação de fórmulas e parâmetros para cálculos elétricos residenciais e prediais, conforme NBR 5410.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
